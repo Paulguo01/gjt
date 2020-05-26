@@ -1,0 +1,5 @@
+{
+  "ProductKey": "a1aYLgxkBMx",
+  "DeviceName": "WG0001",
+  "DeviceSecret": "Hh749sfDUncfmjJfL4970bld5baPM1g0"
+}
